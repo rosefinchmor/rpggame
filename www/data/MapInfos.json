@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":true,"name":"博学苑B区","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"大地图","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"宿舍走廊","order":6,"parentId":7,"scrollX":612,"scrollY":416},
+{"id":4,"expanded":true,"name":"教室走廊","order":7,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"紫荆园","order":2,"parentId":0,"scrollX":612,"scrollY":416.6666666666667},
+{"id":6,"expanded":true,"name":"宿舍内部","order":5,"parentId":7,"scrollX":612,"scrollY":416},
+{"id":7,"expanded":true,"name":"宿舍楼","order":4,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":true,"name":"玫瑰园","order":8,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":true,"name":"篮球场","order":11,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":true,"name":"ACM走廊","order":12,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":true,"name":"玫瑰园内","order":9,"parentId":8,"scrollX":832,"scrollY":640},
+{"id":12,"expanded":true,"name":"玫瑰园内——吃完饭","order":10,"parentId":8,"scrollX":832,"scrollY":640}
+]
